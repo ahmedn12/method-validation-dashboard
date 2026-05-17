@@ -14,6 +14,9 @@ and ICH M10 guidelines.
 - Dilution integrity (2× and 5×)
 - Automated pass/fail report against FDA BMV acceptance criteria
 
+## Results
+![Dashboard](method_validation_dashboard.png)
+
 ## Tools
 Python · pandas · numpy · scipy · matplotlib · plotly
 
