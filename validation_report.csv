@@ -1,0 +1,16 @@
+Parameter,Result,Criterion,Status
+Calibration Curve R²,0.9994,≥ 0.9900,✓ PASS
+Calibrator % Bias (all),Max |bias| = 3.36%,≤ ±15% (≤ ±20% at LLOQ),✓ PASS
+Accuracy — HQC,-2.16%,≤ ±15%,✓ PASS
+Precision — HQC,4.30%RSD,≤ 15%,✓ PASS
+Accuracy — LLOQ,-2.97%,≤ ±20%,✓ PASS
+Precision — LLOQ,7.50%RSD,≤ 20%,✓ PASS
+Accuracy — LQC,-4.65%,≤ ±15%,✓ PASS
+Precision — LQC,5.63%RSD,≤ 15%,✓ PASS
+Accuracy — MQC,0.07%,≤ ±15%,✓ PASS
+Precision — MQC,3.57%RSD,≤ 15%,✓ PASS
+LOQ estimate vs LLOQ,94.359 ng/mL vs LLOQ 1.0 ng/mL,LOQ ≤ LLOQ,✗ FAIL
+Matrix Effect — LQC,"MF = 100.2%, %RSD = 0.9%","85–115%, %RSD ≤15%",✓ PASS
+Matrix Effect — HQC,"MF = 100.3%, %RSD = 1.1%","85–115%, %RSD ≤15%",✓ PASS
+Dilution Integrity — 2×,"Bias = 2.08%, %RSD = 4.31%","≤ ±15%, %RSD ≤15%",✓ PASS
+Dilution Integrity — 5×,"Bias = 1.19%, %RSD = 3.66%","≤ ±15%, %RSD ≤15%",✓ PASS
